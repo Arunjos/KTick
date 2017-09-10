@@ -1,6 +1,6 @@
 ### What is this repository for? ###
 
-Ktick it is similar to Vtick app. It have same features as VTick but advanced UI and more advanced features like offline mode, horizontal movements etc
+Ktick it is similar to Vtick app. It have same features as VTick but advanced UI and more advanced features like offline mode, horizontal movements etc.
 
 -> Pick up data from excel file and show on the screen on the top left corner of the desktop.
 
